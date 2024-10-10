@@ -1,0 +1,5 @@
+largest = list[0]
+for number in list 
+if number > largest 
+largest = number 
+return largest
